@@ -2,8 +2,7 @@
 - 👨‍🎓 Civil engineering student
 - ❤️ I Love water resources engineering, climate change and Hidraulics related topics
 - 👀 I’m interested in Python, Data Science, Machine Learning
-- 🌱 I’m currently learning Python, SQL
-- 💞️ I’m looking to collaborate on Water Resources engineering
+
 
 
 
