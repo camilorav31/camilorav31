@@ -8,13 +8,14 @@ Hi there! I’m **Juan Camilo Ramirez**, a **Civil Engineering student** and **j
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch), SQL, MATLAB, Java, HTML/CSS, R.
-- **Machine Learning & AI:** Experience in classification, regression, neural networks, fuzzy systems, and expert models.
-- **Data Visualization:** Proficient in Matplotlib, Seaborn, PowerBI, and Tableau.
-- **Database Management:** MySQL, PostgreSQL, MongoDB, BigQuery; efficient database design and maintenance.
-- **Big Data Tools:** PySpark, Hadoop, HDFS basics for distributed data processing.
-- **Collaboration:** Git and version control for seamless teamwork.
-- **Languages:** Spanish (Native), English (C1).
+Programming Languages: Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch), SQL, MATLAB, Java, HTML/CSS, R.
+Machine Learning & AI: Experience in classification, regression, neural networks, fuzzy systems, and expert models.
+Data Visualization: Proficient in Matplotlib, Seaborn, PowerBI, and Tableau.
+Database Management: MySQL, PostgreSQL, MongoDB, BigQuery; efficient database design and maintenance.
+Big Data Tools: PySpark, Hadoop, HDFS basics for distributed data processing.
+Containerization & Deployment: Skilled in Docker for creating, managing, and deploying containerized applications.
+Collaboration: Git and version control for seamless teamwork.
+Languages: Spanish (Native), English (C1).
 
 ---
 
