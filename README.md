@@ -30,7 +30,7 @@ Languages: Spanish (Native), English (C1).
 
 ## 💼 Experience
 
-### **Professional Practice in Water Resources**
+### **Junior Data Scientist**
 - Built predictive models using machine learning and deep learning for classification and analysis.
 - Developed Python-based tools for real-time data access and processing.
 
