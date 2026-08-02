@@ -4,9 +4,9 @@ Estoy formándome en el mundo de la tecnología enterprise, en la intersección 
 
 ### 🛠️ Stack
 
-**Lenguajes:** Python · SQL · JavaScript · GraphQL
+**Lenguajes:** Python · SQL · JavaScript · GraphQL · C#
 **Frameworks de IA:** PyTorch · scikit-learn · TensorFlow · Hugging Face Transformers · LangChain
-**Enterprise / Commerce:** arquitectura de soluciones, APIs REST, plataformas de e-commerce
+**Enterprise / Commerce:** arquitectura de soluciones, APIs REST, VTEX, plataformas de e-commerce
 **Otros:** Docker · Git · AWS · PostgreSQL · Linux · CI/CD
 
 ### 📫 Conecta conmigo
